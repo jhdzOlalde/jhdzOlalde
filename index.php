@@ -12,8 +12,10 @@
         <div class="titulo">
         <h1 class="Nombre">Javier Eduardo Hernandez Olalde</h1>
         <h2 class="Titulo">Ingeniero en redes y telecomunicaciones</h2>
-        <h2 ><a class="Descarga" href="">Descargar  de CV</a></h2>
         </div>
+        <section class="descargas">
+        <h2 class="Btn"><a class="Descarga" href="">Descargar de CV</a></h2>
+        </section>
     </header>
 </body>
 </html>
