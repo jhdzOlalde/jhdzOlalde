@@ -1,0 +1,25 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.titulo{
+    background-color: rgb(44, 70, 96);
+    padding: 8rem;
+    text-align: center;
+}
+
+.Nombre {
+    color: rgb(223, 223, 223);
+    padding-bottom: 1rem;
+}
+.titulo{
+    color: rgb(165, 165, 165);
+ 
+}
+.Descarga{
+    background-color:rgb(165, 165, 165); 
+    color:rgb(44, 70, 96);
+    text-decoration: none;
+}
